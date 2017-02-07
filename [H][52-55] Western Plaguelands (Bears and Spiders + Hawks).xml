@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Western Plaguelands 29/57 -->
+<Profile>
+   <Hotspots>
+      <Hotspot>
+         <!-- Pos: 29/57 -->
+         <X>1720.807</X>
+         <Y>-851.6309</Y>
+         <Z>60.76488</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+      <Hotspot>
+         <!-- Pos: 30/56 -->
+         <X>1754.911</X>
+         <Y>-875.6384</Y>
+         <Z>62.7557</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+      <Hotspot>
+         <!-- Pos: 30/55 -->
+         <X>1764.405</X>
+         <Y>-907.958</Y>
+         <Z>67.53821</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+      <Hotspot>
+         <!-- Pos: 32/55 -->
+         <X>1769.4</X>
+         <Y>-974.4261</Y>
+         <Z>70.93605</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+      <Hotspot>
+         <!-- Pos: 33/57 -->
+         <X>1728.264</X>
+         <Y>-1023.725</Y>
+         <Z>70.44986</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+      <Hotspot>
+         <!-- Pos: 34/58 -->
+         <X>1681.548</X>
+         <Y>-1055.639</Y>
+         <Z>68.39839</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+      <Hotspot>
+         <!-- Pos: 33/59 -->
+         <X>1652.671</X>
+         <Y>-1038.099</Y>
+         <Z>76.3718</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+      <Hotspot>
+         <!-- Pos: 33/60 -->
+         <X>1632.484</X>
+         <Y>-1019.63</Y>
+         <Z>75.49207</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+      <Hotspot>
+         <!-- Pos: 32/61 -->
+         <X>1616.8</X>
+         <Y>-997.7139</Y>
+         <Z>78.60783</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+      <Hotspot>
+         <!-- Pos: 31/61 -->
+         <X>1599.318</X>
+         <Y>-948.1801</Y>
+         <Z>67.71848</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+      <Hotspot>
+         <!-- Pos: 30/61 -->
+         <X>1595.222</X>
+         <Y>-905.6259</Y>
+         <Z>65.41856</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+      <Hotspot>
+         <!-- Pos: 29/60 -->
+         <X>1623.132</X>
+         <Y>-850.2235</Y>
+         <Z>65.87599</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+      <Hotspot>
+         <!-- Pos: 29/59 -->
+         <X>1668.721</X>
+         <Y>-837.8603</Y>
+         <Z>65.50034</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+      <Hotspot>
+         <!-- Pos: 29/57 -->
+         <X>1720.178</X>
+         <Y>-839.0441</Y>
+         <Z>60.21071</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+   </Hotspots>
+   <Factions>
+      <Faction>22</Faction>
+      <Faction>73</Faction>
+      <Faction>44</Faction>
+   </Factions>
+   <VendorHotspots>
+      <VendorHotspot>
+         <!-- Pos: 26/56 -->
+         <X>1736.571</X>
+         <Y>-731.1685</Y>
+         <Z>59.57586</Z>
+         <Type>Hotspot</Type>
+      </VendorHotspot>
+      <VendorHotspot>
+         <!-- Pos: 26/57 -->
+         <X>1712.364</X>
+         <Y>-742.3052</Y>
+         <Z>55.28705</Z>
+         <Type>Hotspot</Type>
+      </VendorHotspot>
+      <VendorHotspot>
+         <!-- Pos: 28/57 -->
+         <X>1718.877</X>
+         <Y>-806.9503</Y>
+         <Z>57.75652</Z>
+         <Type>Hotspot</Type>
+      </VendorHotspot>
+      <VendorHotspot>
+         <!-- Pos: 29/57 -->
+         <X>1719.804</X>
+         <Y>-836.5193</Y>
+         <Z>60.11054</Z>
+         <Type>Hotspot</Type>
+      </VendorHotspot>
+   </VendorHotspots>
+   <Repair>
+      <!-- Pos: 26/56 -->
+      <Position>
+         <X>1737.1</X>
+         <Y>-730.883</Y>
+         <Z>59.65873</Z>
+      </Position>
+      <Name>Werg Thickblade</Name>
+   </Repair>
+</Profile>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Winterspring 56/30 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 56/30 -->
+			<X>7095.06</X>
+			<Y>-4314.79</Y>
+			<Z>669.6107</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 55/31 -->
+			<X>7051.621</X>
+			<Y>-4235.014</Y>
+			<Z>692.2795</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 55/30 -->
+			<X>7093.257</X>
+			<Y>-4224.787</Y>
+			<Z>694.5172</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 55/29 -->
+			<X>7157.396</X>
+			<Y>-4253.123</Y>
+			<Z>688.1859</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>16</Faction>
+		<Faction>7</Faction>
+	</Factions>
+</Profile>
